@@ -23,4 +23,5 @@ public class CryptoCurrencyService {
         }
         return price.get();
     }
+
 }
