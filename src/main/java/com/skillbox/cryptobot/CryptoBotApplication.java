@@ -10,6 +10,7 @@ public class CryptoBotApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CryptoBotApplication.class, args);
+        
     }
 
 }
